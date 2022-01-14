@@ -1,0 +1,30 @@
+{
+  "name": "sveltekit-env-vars",
+  "version": "1.0.0",
+  "description": "Sveltekit Environment Variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dr-montasir/sveltekit-env-vars.git"
+  },
+  "keywords": [
+    "env",
+    "svelte",
+    "sveltekit",
+    "environment",
+    "variables"
+  ],
+  "author": "Montasir Mirghani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dr-montasir/sveltekit-env-vars/issues"
+  },
+  "homepage": "https://github.com/dr-montasir/sveltekit-env-vars#readme",
+  "dependencies": {
+    "@rollup/plugin-replace": "^3.0.1",
+    "dotenv": "^11.0.0"
+  }
+}
